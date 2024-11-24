@@ -44,6 +44,7 @@ const MainMenu: React.FC = () =>{
             icon: 'pi pi-link',
             className: selectedItem=='b2d12d30-3cd1-44b2-b052-4ac820c5d375'? 'selected-menu-item': '',
             command: () =>{
+                navigate('/productos')
                 setSelectedItem('b2d12d30-3cd1-44b2-b052-4ac820c5d375')
             }
         },

@@ -10,7 +10,6 @@ import { Button } from 'primereact/button';
         
 const MainInicio: React.FC = () =>{
     const [selectedCategory, setSelectedCategory] = useState<category>(); 
-    const [products, setProducts] = useState<product[]>();
     const [categories, setCategories] = useState<category[]>();
     const [error, setError] = useState<string | null>(null);
     const [loading, setLoading] = useState<boolean>(true);  
@@ -32,22 +31,10 @@ const MainInicio: React.FC = () =>{
         }
     }
 
-    const getProducts= async ()=>{
-        setLoading(true);
-        try{
-            setProducts(productsData);
-        }
-        catch(error: any){
-            setError(error.message || "error al obtener el json")
-        }
-        finally{
-            setLoading(false)
-        }
-    }
+    
 
     useEffect(() =>{
         getCategories();
-        getProducts();
     }, [])
 
     return(

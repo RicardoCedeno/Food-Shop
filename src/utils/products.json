@@ -4,7 +4,7 @@
     "name": "Manzana",
     "price": 1.20,
     "description": "Manzana roja fresca y jugosa, ideal para bocadillos o postres.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/manzanas_b85do5.jpg",
     "categoryId": "001"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Plátano",
     "price": 0.60,
     "description": "Plátanos maduros y dulces, perfectos para batidos o comer directamente.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480898/platanos_neozgh.jpg",
     "categoryId": "001"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Pan de Trigo",
     "price": 2.50,
     "description": "Pan integral de trigo, ideal para sándwiches o acompañar tus comidas.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/pan_wxqgcw.jpg",
     "categoryId": "003"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Tomate",
     "price": 0.80,
     "description": "Tomates frescos, perfectos para ensaladas, salsas o comer crudos.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480903/tomates_yuietd.jpg",
     "categoryId": "001"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Leche",
     "price": 1.50,
     "description": "Leche fresca de vaca, ideal para desayunos, café o batidos.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/leche_e50kau.jpg",
     "categoryId": "004"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Arroz",
     "price": 1.75,
     "description": "Arroz blanco de grano largo, perfecto para acompañar cualquier plato.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480895/arroz_rvuobg.jpg",
     "categoryId": "007"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Pechuga de Pollo",
     "price": 5.00,
     "description": "Pechuga de pollo fresca, ideal para asar, freír o cocinar al vapor.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480897/pechuga-pollo_qgtsuy.jpg",
     "categoryId": "005"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Huevos",
     "price": 2.00,
     "description": "Docena de huevos frescos, perfectos para cocinar, hacer omelets o repostería.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/huevos_khnprx.jpg",
     "categoryId": "005"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Jugo de Naranja",
     "price": 3.00,
     "description": "Jugo natural de naranja recién exprimido, una excelente opción para el desayuno.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/jugo-naranja_vyoz5d.jpg",
     "categoryId": "006"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Pasta",
     "price": 1.20,
     "description": "Pasta italiana de alta calidad, ideal para preparar salsas o ensaladas.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480897/pastas_e7z7sf.jpg",
     "categoryId": "010"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Aguacate",
     "price": 1.50,
     "description": "Aguacates frescos, perfectos para ensaladas, guacamole o comer solos.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480895/aguacate_eech6p.jpg",
     "categoryId": "001"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Lechuga",
     "price": 0.90,
     "description": "Lechuga fresca, ideal para ensaladas, sándwiches o como acompañante.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/lechuga_omxbpz.jpg",
     "categoryId": "002"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Pepino",
     "price": 0.75,
     "description": "Pepino fresco y crujiente, perfecto para ensaladas o bocadillos saludables.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480898/pepinos_kdr3er.jpg",
     "categoryId": "002"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Zanahoria",
     "price": 1.00,
     "description": "Zanahorias frescas, ideales para comer crudas o añadir a sopas y ensaladas.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480903/zanahorias_em2m5s.jpg",
     "categoryId": "002"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Cebolla",
     "price": 0.50,
     "description": "Cebollas frescas, esenciales para darle sabor a cualquier platillo.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480895/cebollas_qrijgv.jpg",
     "categoryId": "002"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Papas",
     "price": 1.80,
     "description": "Papas frescas, ideales para freír, hacer puré o añadir a guisos.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480897/papas_o8wmyj.jpg",
     "categoryId": "002"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Queso Cheddar",
     "price": 4.50,
     "description": "Queso cheddar rallado, perfecto para acompañar hamburguesas, sándwiches o ensaladas.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480903/queso-cheddar_ruycfg.jpg",
     "categoryId": "004"
   },
   {
@@ -140,15 +140,15 @@
     "name": "Mantequilla",
     "price": 2.30,
     "description": "Mantequilla fresca, ideal para untar en pan, cocinar o usar en repostería.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/mantequilla_hxyuyu.jpg",
     "categoryId": "004"
   },
   {
     "id": "19",
-    "name": "Yogur",
+    "name": "Yogurt",
     "price": 1.80,
     "description": "Yogur natural, ideal para desayunos o como snack saludable.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480903/yogurt_zmavhn.jpg",
     "categoryId": "004"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Cereal",
     "price": 3.00,
     "description": "Cereal integral, una opción rápida y saludable para el desayuno.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/cereal_dgfy2d.jpg",
     "categoryId": "003"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Aceite de Oliva",
     "price": 5.80,
     "description": "Aceite de oliva virgen extra, perfecto para cocinar o aderezar ensaladas.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480894/aceite_k0ofr5.jpg",
     "categoryId": "008"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Pechuga de Pavo",
     "price": 6.00,
     "description": "Pechuga de pavo fresca, ideal para sandwiches, ensaladas o asar.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480897/pechuga-pavo_m52yc7.jpg",
     "categoryId": "005"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Salmón",
     "price": 7.50,
     "description": "Salmón fresco, ideal para hacer a la parrilla, en salsa o en sushi.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480903/salmon_xypevj.jpg",
     "categoryId": "005"
   },
   {
@@ -188,7 +188,7 @@
     "name": "Pan de Ajo",
     "price": 3.00,
     "description": "Pan de ajo recién horneado, perfecto para acompañar platos italianos.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480898/pan-ajo_wuehtd.jpg",
     "categoryId": "003"
   },
   {
@@ -196,7 +196,7 @@
     "name": "Almendras",
     "price": 5.20,
     "description": "Almendras tostadas, un excelente snack o adición para postres.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480895/almendras_xyt0rn.jpg",
     "categoryId": "007"
   },
   {
@@ -204,7 +204,7 @@
     "name": "Frutos Rojos",
     "price": 4.80,
     "description": "Frutos rojos congelados, ideales para batidos o postres.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480895/frutos-rojos_u6jdrl.jpg",
     "categoryId": "011"
   },
   {
@@ -212,7 +212,7 @@
     "name": "Miel",
     "price": 3.50,
     "description": "Miel orgánica, perfecta para endulzar bebidas, postres o como snack.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/miel-abeja_eachi7.jpg",
     "categoryId": "008"
   },
   {
@@ -220,7 +220,7 @@
     "name": "Frijoles",
     "price": 1.40,
     "description": "Frijoles frescos, ideales para preparar sopas o acompañar platos principales.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/frijoles_nwsjx8.jpg",
     "categoryId": "007"
   },
   {
@@ -228,7 +228,7 @@
     "name": "Chocolate",
     "price": 2.00,
     "description": "Chocolate oscuro, ideal para postres o disfrutar como un snack.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480896/chocolate_nenyhf.jpg",
     "categoryId": "009"
   },
   {
@@ -236,7 +236,7 @@
     "name": "Galletas",
     "price": 2.50,
     "description": "Galletas de avena, un delicioso y saludable snack.",
-    "image": "",
+    "image": "https://res.cloudinary.com/dycride8x/image/upload/v1732480895/galletas_wna6nb.jpg",
     "categoryId": "009"
   }
 ]
