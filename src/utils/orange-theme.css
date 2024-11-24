@@ -31,3 +31,21 @@
   .p-button:focus {
     box-shadow: 0 0 0 0.2rem rgba(255, 111, 0, 0.5) !important; /* Enfoque */
   }
+
+  .p-button-outlined {
+    background-color: transparent !important; /* Fondo transparente */
+    border-color: var(--primary-color) !important; /* Borde del botón con el color primario */
+    color: var(--primary-color) !important; /* Color del texto con el color primario */
+  }
+  
+  .p-button-outlined:hover {
+    background-color: var(--primary-color) !important; /* Fondo color primario al pasar el mouse */
+    color: var(--primary-color-text) !important; /* Texto blanco al pasar el mouse */
+    border-color: var(--primary-color) !important; /* Mantener el borde color primario */
+  }
+  
+  .p-button-outlined:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 111, 0, 0.5) !important;
+  }
+
+  

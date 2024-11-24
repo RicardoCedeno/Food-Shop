@@ -6,7 +6,8 @@ import MainMenu from './components/main-menu';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import QuienesSomos from './components/inicio/quienes-somos';
 import MainInicio from './components/inicio/main-inicio';
-import Productos from './components/productos';
+import Productos from './components/productos/productos';
+import ProductoDetalle from './components/productos/productos-detalle';
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"></link>
 
 
@@ -21,6 +22,7 @@ function App() {
         <Route path='/quienes-somos' Component={QuienesSomos}></Route>
         <Route path='/inicio' Component={MainInicio}></Route>
         <Route path='/productos' Component={Productos}></Route>
+        <Route path='detalles/:id' Component={ProductoDetalle}></Route>
       </Routes>
     </div>
     </BrowserRouter>
