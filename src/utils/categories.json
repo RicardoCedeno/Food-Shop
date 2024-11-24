@@ -1,0 +1,46 @@
+[
+    {
+        "id": "001",
+        "name": "Frutas"
+    },
+    {
+        "id": "002",
+        "name": "Verduras"
+    },
+    {
+        "id": "003",
+        "name": "Pan y cereales"
+    },
+    {
+        "id": "004",
+        "name": "Lacteos"
+    },
+    {
+        "id": "005",
+        "name": "Proteinas"
+    },
+    {
+        "id": "006",
+        "name": "Bebidas"
+    },
+    {
+        "id": "007",
+        "name": "Granos y semillas"
+    },
+    {
+        "id": "008",
+        "name": "Condimentos y aceites"
+    },
+    {
+        "id": "009",
+        "name": "Snacks y postres"
+    },
+    {
+        "id": "010",
+        "name": "Pasta"
+    },
+    {
+        "id": "011",
+        "name": "Frutos congelados"
+    }
+]

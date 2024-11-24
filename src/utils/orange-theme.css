@@ -1,0 +1,33 @@
+@import '../../node_modules/primereact/resources/themes/saga-orange/theme.css';
+:root {
+    --primary-color: #FF6F00; /* Color principal - naranja */
+    --primary-color-text: #ffffff; /* Texto sobre color principal */
+    --surface-border: #f5f5f5; /* Bordes suaves */
+    --text-color: #4E342E; /* Color del texto - marrón oscuro */
+    --background-color: #FFFDE7; /* Fondo claro con tono cálido */
+    --font-family: 'Roboto', sans-serif; /* Familia de fuente */
+    --border-radius: 8px; /* Radio de bordes */
+  
+    /* Colores adicionales para complementos */
+    --secondary-color: #FFD54F; /* Amarillo cálido */
+    --secondary-color-text: #212121; /* Texto sobre secundario */
+    --error-color: #D32F2F; /* Color de error */
+    --success-color: #388E3C; /* Color de éxito */
+    --info-color: #0288D1; /* Azul claro para información */
+    --warning-color: #F57C00; /* Naranja oscuro para advertencias */
+  }
+
+  .p-button {
+    background-color: var(--primary-color) !important; /* Fondo del botón */
+    border-color: var(--primary-color) !important; /* Borde del botón */
+    color: var(--primary-color-text) !important; /* Texto del botón */
+  }
+  
+  .p-button:hover {
+    background-color: #cb5901 !important; /* Fondo al pasar el mouse */
+    border-color: darken(var(--primary-color), 10%) !important;
+  }
+  
+  .p-button:focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 111, 0, 0.5) !important; /* Enfoque */
+  }

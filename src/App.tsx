@@ -1,25 +1,27 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+// import "primereact/resources/themes/saga-orange/theme.css";
+import "./utils/orange-theme.css"
+import MainMenu from './components/main-menu';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import QuienesSomos from './components/inicio/quienes-somos';
+import MainInicio from './components/inicio/main-inicio';
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"></link>
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <BrowserRouter>
+    <MainMenu/>
+    <div className='components'>
+      <Routes>
+        <Route path='/' Component={MainInicio}></Route>
+        <Route path='/quienes-somos' Component={QuienesSomos}></Route>
+        <Route path='/inicio' Component={MainInicio}></Route>
+      </Routes>
     </div>
+    </BrowserRouter>
   );
 }
 

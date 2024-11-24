@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "Manzana",
+    "price": 1.20,
+    "description": "Manzana roja fresca y jugosa, ideal para bocadillos o postres.",
+    "image": "",
+    "categoryId": "001"
+  },
+  {
+    "id": "2",
+    "name": "Plátano",
+    "price": 0.60,
+    "description": "Plátanos maduros y dulces, perfectos para batidos o comer directamente.",
+    "image": "",
+    "categoryId": "001"
+  },
+  {
+    "id": "3",
+    "name": "Pan de Trigo",
+    "price": 2.50,
+    "description": "Pan integral de trigo, ideal para sándwiches o acompañar tus comidas.",
+    "image": "",
+    "categoryId": "003"
+  },
+  {
+    "id": "4",
+    "name": "Tomate",
+    "price": 0.80,
+    "description": "Tomates frescos, perfectos para ensaladas, salsas o comer crudos.",
+    "image": "",
+    "categoryId": "001"
+  },
+  {
+    "id": "5",
+    "name": "Leche",
+    "price": 1.50,
+    "description": "Leche fresca de vaca, ideal para desayunos, café o batidos.",
+    "image": "",
+    "categoryId": "004"
+  },
+  {
+    "id": "6",
+    "name": "Arroz",
+    "price": 1.75,
+    "description": "Arroz blanco de grano largo, perfecto para acompañar cualquier plato.",
+    "image": "",
+    "categoryId": "007"
+  },
+  {
+    "id": "7",
+    "name": "Pechuga de Pollo",
+    "price": 5.00,
+    "description": "Pechuga de pollo fresca, ideal para asar, freír o cocinar al vapor.",
+    "image": "",
+    "categoryId": "005"
+  },
+  {
+    "id": "8",
+    "name": "Huevos",
+    "price": 2.00,
+    "description": "Docena de huevos frescos, perfectos para cocinar, hacer omelets o repostería.",
+    "image": "",
+    "categoryId": "005"
+  },
+  {
+    "id": "9",
+    "name": "Jugo de Naranja",
+    "price": 3.00,
+    "description": "Jugo natural de naranja recién exprimido, una excelente opción para el desayuno.",
+    "image": "",
+    "categoryId": "006"
+  },
+  {
+    "id": "10",
+    "name": "Pasta",
+    "price": 1.20,
+    "description": "Pasta italiana de alta calidad, ideal para preparar salsas o ensaladas.",
+    "image": "",
+    "categoryId": "010"
+  },
+  {
+    "id": "11",
+    "name": "Aguacate",
+    "price": 1.50,
+    "description": "Aguacates frescos, perfectos para ensaladas, guacamole o comer solos.",
+    "image": "",
+    "categoryId": "001"
+  },
+  {
+    "id": "12",
+    "name": "Lechuga",
+    "price": 0.90,
+    "description": "Lechuga fresca, ideal para ensaladas, sándwiches o como acompañante.",
+    "image": "",
+    "categoryId": "002"
+  },
+  {
+    "id": "13",
+    "name": "Pepino",
+    "price": 0.75,
+    "description": "Pepino fresco y crujiente, perfecto para ensaladas o bocadillos saludables.",
+    "image": "",
+    "categoryId": "002"
+  },
+  {
+    "id": "14",
+    "name": "Zanahoria",
+    "price": 1.00,
+    "description": "Zanahorias frescas, ideales para comer crudas o añadir a sopas y ensaladas.",
+    "image": "",
+    "categoryId": "002"
+  },
+  {
+    "id": "15",
+    "name": "Cebolla",
+    "price": 0.50,
+    "description": "Cebollas frescas, esenciales para darle sabor a cualquier platillo.",
+    "image": "",
+    "categoryId": "002"
+  },
+  {
+    "id": "16",
+    "name": "Papas",
+    "price": 1.80,
+    "description": "Papas frescas, ideales para freír, hacer puré o añadir a guisos.",
+    "image": "",
+    "categoryId": "002"
+  },
+  {
+    "id": "17",
+    "name": "Queso Cheddar",
+    "price": 4.50,
+    "description": "Queso cheddar rallado, perfecto para acompañar hamburguesas, sándwiches o ensaladas.",
+    "image": "",
+    "categoryId": "004"
+  },
+  {
+    "id": "18",
+    "name": "Mantequilla",
+    "price": 2.30,
+    "description": "Mantequilla fresca, ideal para untar en pan, cocinar o usar en repostería.",
+    "image": "",
+    "categoryId": "004"
+  },
+  {
+    "id": "19",
+    "name": "Yogur",
+    "price": 1.80,
+    "description": "Yogur natural, ideal para desayunos o como snack saludable.",
+    "image": "",
+    "categoryId": "004"
+  },
+  {
+    "id": "20",
+    "name": "Cereal",
+    "price": 3.00,
+    "description": "Cereal integral, una opción rápida y saludable para el desayuno.",
+    "image": "",
+    "categoryId": "003"
+  },
+  {
+    "id": "21",
+    "name": "Aceite de Oliva",
+    "price": 5.80,
+    "description": "Aceite de oliva virgen extra, perfecto para cocinar o aderezar ensaladas.",
+    "image": "",
+    "categoryId": "008"
+  },
+  {
+    "id": "22",
+    "name": "Pechuga de Pavo",
+    "price": 6.00,
+    "description": "Pechuga de pavo fresca, ideal para sandwiches, ensaladas o asar.",
+    "image": "",
+    "categoryId": "005"
+  },
+  {
+    "id": "23",
+    "name": "Salmón",
+    "price": 7.50,
+    "description": "Salmón fresco, ideal para hacer a la parrilla, en salsa o en sushi.",
+    "image": "",
+    "categoryId": "005"
+  },
+  {
+    "id": "24",
+    "name": "Pan de Ajo",
+    "price": 3.00,
+    "description": "Pan de ajo recién horneado, perfecto para acompañar platos italianos.",
+    "image": "",
+    "categoryId": "003"
+  },
+  {
+    "id": "25",
+    "name": "Almendras",
+    "price": 5.20,
+    "description": "Almendras tostadas, un excelente snack o adición para postres.",
+    "image": "",
+    "categoryId": "007"
+  },
+  {
+    "id": "26",
+    "name": "Frutos Rojos",
+    "price": 4.80,
+    "description": "Frutos rojos congelados, ideales para batidos o postres.",
+    "image": "",
+    "categoryId": "011"
+  },
+  {
+    "id": "27",
+    "name": "Miel",
+    "price": 3.50,
+    "description": "Miel orgánica, perfecta para endulzar bebidas, postres o como snack.",
+    "image": "",
+    "categoryId": "008"
+  },
+  {
+    "id": "28",
+    "name": "Frijoles",
+    "price": 1.40,
+    "description": "Frijoles frescos, ideales para preparar sopas o acompañar platos principales.",
+    "image": "",
+    "categoryId": "007"
+  },
+  {
+    "id": "29",
+    "name": "Chocolate",
+    "price": 2.00,
+    "description": "Chocolate oscuro, ideal para postres o disfrutar como un snack.",
+    "image": "",
+    "categoryId": "009"
+  },
+  {
+    "id": "30",
+    "name": "Galletas",
+    "price": 2.50,
+    "description": "Galletas de avena, un delicioso y saludable snack.",
+    "image": "",
+    "categoryId": "009"
+  }
+]
